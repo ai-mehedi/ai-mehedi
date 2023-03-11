@@ -26,7 +26,7 @@ I'm a software developer. Basically, Im building web and desktop based applicati
 <br>
 
 <!-- contact me -->
-<details>
+<details open>
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
   <samp>
@@ -74,7 +74,7 @@ I'm a software developer. Basically, Im building web and desktop based applicati
  </div>
  </details>
 <!-- ### 📊 Github Stats -->
-<details>
+<details open>
 <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Github Stats ....</summary>
 <div>
 <samp>
