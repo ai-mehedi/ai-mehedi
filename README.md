@@ -53,7 +53,7 @@ I'm a software developer. Basically, Im building web and desktop based applicati
 </div>
 </details>
 
-<details>
+<details open>
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Language and Tools ....</summary>
  <div>
  <samp>
