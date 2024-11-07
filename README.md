@@ -20,7 +20,7 @@ I'm a software developer. Basically, Im building web and desktop based applicati
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Python, HTML, CSS, Bootstrap, React<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](aminulislam0527@gmail.com)<br>
-✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aminul-islam-270816239/),If I am alive I will answer within seconds 😉<br>
+✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mdaminulislam8875/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
 
 <br>
@@ -33,7 +33,7 @@ I'm a software developer. Basically, Im building web and desktop based applicati
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/aminul-islam-270816239/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/mdaminulislam8875/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/aimehedi75" target="blank"><img align="center"
