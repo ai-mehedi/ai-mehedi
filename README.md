@@ -85,9 +85,9 @@ I'm a software developer. Basically, Im building web and desktop based applicati
  
 [![mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-mehedi&count_private=true&show_icons=true&theme=radical)](https://github.com/ai-mehedi)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mehedi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mehedi&layout=compact)](https://github.com/ai-mehedi)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ai-mehedi&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ai-mehedi&theme=onedark&row=1&column=7)](https://github.com/ai-mehedi)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ai-mehedi&theme=dark)
  
