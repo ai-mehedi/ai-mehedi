@@ -38,6 +38,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-mehedi&show_icons=true&locale=en&layout=compact" alt="ai-mehedi" /></p>
 
-![ai-mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mehedi&show_icons=true&locale=en)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-mehedi&show_icons=true&count_private=true&theme=default&cache_seconds=10" alt="ai-mehedi" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mehedi&" alt="ai-mehedi" /></p>
+                                                                                                                   
+ 
