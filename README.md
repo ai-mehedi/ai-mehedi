@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Aminul Islam</h1>
 <h3 align="start">Welcome to my profile! I'm specialize in web and develop Applications Development. Additionally I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Thanks for visiting and I'd love to connect!</h3>
-<a href="https://www.buymeacoffee.com/aimehedi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="ai-mehedi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
